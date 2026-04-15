@@ -5,14 +5,10 @@ This project explores the Galton-Watson Branching Process, focusing on the phase
 
 ### Mathematical Highlights
 
-    Phase Transition: Empirical verification that extinction is certain when the mean offspring μ≤1.
-
-    PGF Analysis: Numerical solutions for the extinction probability q as a fixed point of the Probability Generating Function.
+1. Phase Transition: Empirical verification that extinction is certain when the mean offspring μ≤1.
+2. PGF Analysis: Numerical solutions for the extinction probability q as a fixed point of the Probability Generating Function.
 
 ### Key Libraries
-
-    NumPy for vectorized population generation.
-
-    SciPy for solving transcendental equations for q.
-
-    Matplotlib and Seaborn for plots.
+1. NumPy for vectorized population generation.
+2. SciPy for solving transcendental equations for q.
+3. Matplotlib and Seaborn for plots.
